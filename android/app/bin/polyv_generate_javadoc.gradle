@@ -1,0 +1,75 @@
+Map<String, String> map = ["polyvAndroidLiveSDKCore2.0/src/main/java/com/easefun/polyvsdk/live/PolyvLivePlayerScreenSize.java"                                : "",
+                           "polyvAndroidLiveSDKCore2.0/src/main/java/com/easefun/polyvsdk/live/PolyvLiveSDKClient.java"                                       : "",
+                           "polyvAndroidLiveSDKCore2.0/src/main/java/com/easefun/polyvsdk/live/PolyvLiveSDKUtil.java"                                         : "",
+
+                           "polyvAndroidLiveSDKCore2.0/src/main/java/com/easefun/polyvsdk/live/chat/IPolyvChatManager.java"                                   : "chat",
+                           "polyvAndroidLiveSDKCore2.0/src/main/java/com/easefun/polyvsdk/live/chat/PolyvChatManager.java"                                    : "chat",
+                           "polyvAndroidLiveSDKCore2.0/src/main/java/com/easefun/polyvsdk/live/chat/PolyvChatMessage.java"                                    : "chat",
+                           "polyvAndroidLiveSDKCore2.0/src/main/java/com/easefun/polyvsdk/live/chat/IPolyvLivePPTView.java"                                   : "chat",
+                           "polyvAndroidLiveSDKCore2.0/src/main/java/com/easefun/polyvsdk/live/chat/PolyvLiveSurfaceView.java"                                : "chat",
+                           "polyvAndroidLiveSDKCore2.0/src/main/java/com/easefun/polyvsdk/live/chat/PolyvLiveTextureView.java"                                : "chat",
+                           "polyvAndroidLiveSDKCore2.0/src/main/java/com/easefun/polyvsdk/live/chat/ppt/api/PolyvLiveMessage.java"                            : "chat/ppt/api",
+                           "polyvAndroidLiveSDKCore2.0/src/main/java/com/easefun/polyvsdk/live/chat/ppt/api/entity/PolyvLiveMessageEntity.java"               : "chat/ppt/api/entity",
+
+                           "polyvAndroidLiveSDKCore2.0/src/main/java/com/easefun/polyvsdk/live/chat/linkmic/module/IPolyvLinkMicManager.java"                 : "chat/linkmic/module",
+                           "polyvAndroidLiveSDKCore2.0/src/main/java/com/easefun/polyvsdk/live/chat/linkmic/module/AGEventHandler.java"                       : "chat/linkmic/module",
+                           "polyvAndroidLiveSDKCore2.0/src/main/java/com/easefun/polyvsdk/live/chat/linkmic/module/PolyvLinkMicManager.java"                  : "chat/linkmic/module",
+                           "polyvAndroidLiveSDKCore2.0/src/main/java/com/easefun/polyvsdk/live/chat/linkmic/api/PolyvMicrophoneStatus.java"                   : "chat/linkmic/api",
+                           "polyvAndroidLiveSDKCore2.0/src/main/java/com/easefun/polyvsdk/live/chat/linkmic/api/PolyvOnlineLinkMicUsers.java"                 : "chat/linkmic/api",
+                           "polyvAndroidLiveSDKCore2.0/src/main/java/com/easefun/polyvsdk/live/chat/linkmic/api/entity/PolyvMicrophoneStatusEntity.java"      : "chat/linkmic/api/entity",
+                           "polyvAndroidLiveSDKCore2.0/src/main/java/com/easefun/polyvsdk/live/chat/linkmic/api/entity/PolyvOnlineLinkMicUsersEntity.java"    : "chat/linkmic/api/entity",
+                           "polyvAndroidLiveSDKCore2.0/src/main/java/com/easefun/polyvsdk/live/chat/api/PolyvChatHistory.java"                                : "chat/api",
+                           "polyvAndroidLiveSDKCore2.0/src/main/java/com/easefun/polyvsdk/live/chat/api/PolyvChatQuiz.java"                                   : "chat/api",
+
+                           "polyvAndroidLiveSDKCore2.0/src/main/java/com/easefun/polyvsdk/live/chat/playback/api/PolyvLivePlayback.java"                      : "chat/playback/api",
+                           "polyvAndroidLiveSDKCore2.0/src/main/java/com/easefun/polyvsdk/live/chat/playback/api/PolyvLiveRecorFiles.java"                    : "chat/playback/api",
+                           "polyvAndroidLiveSDKCore2.0/src/main/java/com/easefun/polyvsdk/live/chat/playback/api/PolyvLive_Status.java"                       : "chat/playback/api",
+                           "polyvAndroidLiveSDKCore2.0/src/main/java/com/easefun/polyvsdk/live/chat/playback/api/entity/PolyvLiveChannelJsonEntity.java"      : "chat/playback/api/entity",
+                           "polyvAndroidLiveSDKCore2.0/src/main/java/com/easefun/polyvsdk/live/chat/playback/api/entity/PolyvLivePlaybackEntity.java"         : "chat/playback/api/entity",
+                           "polyvAndroidLiveSDKCore2.0/src/main/java/com/easefun/polyvsdk/live/chat/playback/api/entity/PolyvLiveRecordFilesEntity.java"      : "chat/playback/api/entity",
+
+                           "polyvAndroidLiveSDKCore2.0/src/main/java/com/easefun/polyvsdk/live/video/IMediaController.java"                                   : "video",
+                           "polyvAndroidLiveSDKCore2.0/src/main/java/com/easefun/polyvsdk/live/video/IPolyvLiveIjkVideoView.java"                             : "video",
+                           "polyvAndroidLiveSDKCore2.0/src/main/java/com/easefun/polyvsdk/live/video/IPolyvLiveMediaController.java"                          : "video",
+                           "polyvAndroidLiveSDKCore2.0/src/main/java/com/easefun/polyvsdk/live/video/IPolyvLiveVideoView.java"                                : "video",
+                           "polyvAndroidLiveSDKCore2.0/src/main/java/com/easefun/polyvsdk/live/video/IPolyvLiveVideoViewListenerEvent.java"                   : "video",
+                           "polyvAndroidLiveSDKCore2.0/src/main/java/com/easefun/polyvsdk/live/video/PolyvLiveMediaController.java"                           : "video",
+                           "polyvAndroidLiveSDKCore2.0/src/main/java/com/easefun/polyvsdk/live/video/PolyvLiveMediaInfoType.java"                             : "video",
+                           "polyvAndroidLiveSDKCore2.0/src/main/java/com/easefun/polyvsdk/live/video/PolyvLivePlayErrorReason.java"                           : "video",
+                           "polyvAndroidLiveSDKCore2.0/src/main/java/com/easefun/polyvsdk/live/video/PolyvLiveVideoUtil.java"                                 : "video",
+                           "polyvAndroidLiveSDKCore2.0/src/main/java/com/easefun/polyvsdk/live/video/PolyvLiveVideoView.java"                                 : "video",
+                           "polyvAndroidLiveSDKCore2.0/src/main/java/com/easefun/polyvsdk/live/video/PolyvLiveVideoViewListener.java"                         : "video",
+
+                           "polyvAndroidLiveSDKCore2.0/src/main/java/com/easefun/polyvsdk/live/video/auxiliary/IPolyvLiveAuxiliaryIjkVideoView.java"          : "video/auxiliary",
+                           "polyvAndroidLiveSDKCore2.0/src/main/java/com/easefun/polyvsdk/live/video/auxiliary/IPolyvLiveAuxiliaryVideoView.java"             : "video/auxiliary",
+                           "polyvAndroidLiveSDKCore2.0/src/main/java/com/easefun/polyvsdk/live/video/auxiliary/IPolyvLiveAuxiliaryVideoViewListenerEvent.java": "video/auxiliary",
+                           "polyvAndroidLiveSDKCore2.0/src/main/java/com/easefun/polyvsdk/live/video/auxiliary/PolyvLiveAuxiliaryVideoView.java"              : "video/auxiliary",
+                           "polyvAndroidLiveSDKCore2.0/src/main/java/com/easefun/polyvsdk/live/video/auxiliary/PolyvLiveAuxiliaryVideoViewListener.java"      : "video/auxiliary",
+
+                           "polyvAndroidLiveSDKCore2.0/src/main/java/com/easefun/polyvsdk/live/vo/PolyvLiveChannelVO.java"                                    : "vo",]
+
+tasks.create(name:'generateJavadoc', type:Javadoc) {
+    println "generate javadoc"
+    Set<String> set = []
+    for(String str : map.keySet()) {
+        set.add("../../PolyvAndroidLiveSDK2.0/" + str)
+    }
+    source = set
+
+    title = "PolyvAndroidLiveSDK " + VERSIONNAME + " API"
+    destinationDir = file(rootProject.projectDir.absolutePath + "/make/${VERSIONNAME}/api")
+    options.encoding = "UTF-8"
+    options.charSet = "UTF-8"
+    options.windowTitle = "PolyvAndroidLiveSDK " + VERSIONNAME + " API"
+    options.links = ["http://docs.oracle.com/javase/7/docs/api"]
+    classpath += configurations.compile
+    classpath += project.files(android.getBootClasspath().join(File.pathSeparator))
+    classpath += files("../../PolyvAndroidLiveSDK2.0/polyvAndroidLiveSDKCore2.0/build/intermediates/classes/release/",
+            "../../PolyvAndroidSDKSharedLibrary/polyvAndroidSDKIJK0.5.1/build/intermediates/classes/release/",
+            "../../PolyvAndroidSDKSharedLibrary/polyvAndroidSDKIJK0.5.1/build/intermediates/exploded-aar/tv.danmaku.ijk.media/ijkplayer-java/0.8.4/jars/classes.jar")
+    failOnError false
+}
+
+tasks.create(name:'generateJavadocEnd', dependsOn:[generateJavadoc]) {
+    println "generateJavadocEnd"
+}

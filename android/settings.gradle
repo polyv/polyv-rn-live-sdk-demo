@@ -1,0 +1,24 @@
+rootProject.name = 'PolyvRNLiveDemo'
+
+include ':app', ':common'
+
+//include ':common'
+//project(':common').projectDir = new File("../../polyv-android-live-sdk-2.0-demo/common")
+//project(':PolyvAndroidLiveSDK2.0').projectDir = new File("../../../android/PolyvAndroidLiveSDK2.0")
+//
+//include ':PolyvAndroidVodSDK2.0'
+////project(':PolyvAndroidVodSDK2.0').projectDir = new File("../../../git_recreate/new/PolyvAndroidVodSDK2.0")
+//project(':PolyvAndroidVodSDK2.0').projectDir = new File("../../../android/PolyvAndroidVodSDK2.0")
+//include ':PolyvAndroidVodSDK2.0:polyvAndroidSDKCore2.0'
+
+//include ':PolyvAndroidSDKSharedLibrary'
+////project(':PolyvAndroidSDKSharedLibrary').projectDir = new File("../../../git_recreate/new/PolyvAndroidSDKSharedLibrary")
+//project(':PolyvAndroidSDKSharedLibrary').projectDir = new File("../../../android/PolyvAndroidSDKSharedLibrary")
+//include ':PolyvAndroidSDKSharedLibrary:polyvAndroidSDKIJK0.5.1'
+//include ':PolyvAndroidSDKSharedLibrary:polyvAndroidSDKGif1.0'
+//
+//include ':PolyvAndroidSDKSharedJniLibrary'
+////project(':PolyvAndroidSDKSharedJniLibrary').projectDir = new File("../../../git_recreate/new/PolyvAndroidSDKSharedJniLibrary")
+//project(':PolyvAndroidSDKSharedJniLibrary').projectDir = new File("../../../android/PolyvAndroidSDKSharedJniLibrary")
+//include ':PolyvAndroidSDKSharedJniLibrary:polyvAndroidSDK-abi'
+//include ':PolyvAndroidSDKSharedJniLibrary:polyvAndroidSDKPolyv-abi'

@@ -15,7 +15,7 @@ PolyvRNLiveDemo是为ReactNative技术开发者定制的直播集成Demo，展�
 #### 开发设备及系统
 
 - 设备要求：搭载 Android 、iOS系统的设备
-- 系统要求：Android 4.1.0(API 16) 及其以上、iOS：
+- 系统要求：Android 4.1.0(API 16) 及其以上、iOS：iOS9
 
 #### 前置条件
 

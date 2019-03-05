@@ -28,6 +28,12 @@ PolyvRNLiveDemo是为ReactNative技术开发者定制的直播集成Demo，展�
 
 #####   React端集成步骤
 
+开始运行行执行如下命令下载react 相关依赖
+
+```js
+npm install
+```
+
 对应的native端的注册入口标签名为：‘PolyvRNLiveDemo’   对应到app.json文件里的配置
 
 ```js

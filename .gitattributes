@@ -1,1 +1,7 @@
 *.pbxproj -text
+*.js linguist-language=javaScript
+*.css linguist-language=javaScript
+*.html linguist-language=javaScript
+*.java linguist-language=java
+*.h linguist-language=Objective-C 
+*.m linguist-language=Objective-C 

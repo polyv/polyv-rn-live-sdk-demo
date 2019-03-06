@@ -1,8 +1,8 @@
 
-*.js linguist-language=JavaScript、Java
-*.css linguist-language=JavaScript、Java
-*.java linguist-language=JavaScript、Java
-*.m linguist-language=JavaScript、Java
+*.js linguist-language=JavaScript
+*.css linguist-language=JavaScript
+*.java linguist-language=JavaScript
+*.m linguist-language=JavaScript
 
 
 
